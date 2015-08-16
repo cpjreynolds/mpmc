@@ -2,3 +2,13 @@
 name = "mpmc"
 version = "0.1.0"
 authors = ["Cole Reynolds <cpjreynolds@gmail.com>"]
+description = "Multi-producer, multi-consumer channels."
+documentation = "https://cpjreynolds.github.io/mpmc"
+repository = "https://github.com/cpjreynolds/mpmc"
+homepage = "https://github.com/cpjreynolds/mpmc"
+readme = "README.md"
+license = "MIT"
+keywords = ["mpmc", "channel", "queue"]
+
+[dependencies]
+
